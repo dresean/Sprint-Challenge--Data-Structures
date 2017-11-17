@@ -69,4 +69,9 @@ class HashTable {
   }
 }
 
+/*
+this was very hard, will be studying over the break to tackle these data structures
+
+*/
+
 module.exports = HashTable;
